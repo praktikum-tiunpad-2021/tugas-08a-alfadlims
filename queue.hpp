@@ -109,9 +109,11 @@ void dequeue(Queue<T> &q) {
   }else if(q.head->next == nullptr){
     pDel = q.head;
     q.head = nullptr;
+    q.tail = nullptr;
   }else{
     pDel = q.head;
     q.head = q.head->next;
+    pDel->next = nullptr;
   }
 
   delete pDel;
