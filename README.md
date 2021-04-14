@@ -3,7 +3,7 @@
 
 > Materi: Queue
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## ALFADLI MAULANA SIDDIK - 140810200005
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
